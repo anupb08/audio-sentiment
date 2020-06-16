@@ -1,0 +1,14 @@
+audioread              2.1.8
+joblib                 0.15.1
+Keras                  2.3.1
+librosa                0.7.2
+llvmlite               0.32.1
+Markdown               3.2.2
+numpy                  1.18.4
+pydub                  0.24.1
+scikit-learn           0.23.1
+setuptools             47.1.1
+tensorboard            2.2.2
+tensorflow             2.2.0
+tornado                6.0.4
+Werkzeug               1.0.1
